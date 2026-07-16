@@ -160,9 +160,9 @@ Get a manufacturing partner with real testing data, certified production, full t
 
 **Headline options:**
 
-- Option A: *We Build Your Brand on Our Manufacturing Platform* -- leads with the OEM value proposition directly.
-- Option B: *Five Layers of Engineering. Your Name on the Roll.* -- leads with technical depth, best for buyers doing real due diligence before committing.
-- Option C: *Your Brand. Our Certified Production.* -- shorter, more direct, works well for paid traffic.
+- Option A: *We Build Your Brand on Our Manufacturing Platform* (leads with the OEM value proposition directly)
+- Option B: *Five Layers of Engineering. Your Name on the Roll.* (leads with technical depth, best for buyers doing real due diligence before committing)
+- Option C: *Your Brand. Our Certified Production.* (shorter, more direct, works well for paid traffic)
 
 ## Meta Content
 

@@ -16,7 +16,7 @@
 
 **Point 1: Materials chosen for performance, formula built around them.**
 
-Every MoShiEx product is made from hand-picked raw materials. The manufacturing process is designed around those specific materials, so the behavior you see during install matches what the spec sheet describes. No surprises mid-job.
+Every MoShiEx product is made from hand picked raw materials. The manufacturing process is designed around those specific materials, so the behavior you see during install matches what the spec sheet describes. No surprises mid-job.
 
 *[Image: Material or factory detail]*
 
@@ -38,7 +38,7 @@ When a customer brings their car back with a problem, you are the one who has to
 
 **Paint Protection Film**
 
-MoShiEx PPF stretches past 280 percent without failing, so it follows real curves without tearing or over-stretching. Installation tack runs 15 to 25 N per 25mm, strong enough to hold the film in place on edges without over-grabbing. Peel strength is 20 to 35 N per 25mm, so repositioning is controlled and the film releases cleanly if a section needs to come off. The adhesive leaves no residue on the paint. White vehicles stay white. Dark vehicles stay dark. The film resists hydrolysis and yellowing over time.
+MoShiEx PPF stretches past 280 percent without failing, so it follows real curves without tearing or over stretching. Installation tack runs 15 to 25 N per 25mm, strong enough to hold the film in place on edges without over-grabbing. Peel strength is 20 to 35 N per 25mm, so repositioning is controlled and the film releases cleanly if a section needs to come off. The adhesive leaves no residue on the paint. White vehicles stay white. Dark vehicles stay dark. The film resists hydrolysis and yellowing over time.
 
 *[Image: PPF installation, showing stretch and edge wrapping]*
 
@@ -50,7 +50,7 @@ High heat rejection without haze. One line uses magnetron sputtered metal layers
 
 **CHARMIST Color Film**
 
-PPF grade TPU base with a cast grade color layer. The color stays bonded to the base film through stretching and will not peel away. Paint-safe adhesive means the film removes cleanly if the customer ever changes their mind. Over 400 color options. Installs like standard PPF.
+PPF grade TPU base with a cast grade color layer. The color stays bonded to the base film through stretching and will not peel away. Paint safe adhesive means the film removes cleanly if the customer ever changes their mind. Over 400 color options. Installs like standard PPF.
 
 *[Image: CHARMIST film on vehicle, showing finish and color quality]*
 

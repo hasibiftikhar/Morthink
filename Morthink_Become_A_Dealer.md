@@ -16,7 +16,7 @@
 
 **Point 1: Materials and process, matched by design.**
 
-Every MoShiEx product starts with hand-picked raw materials. The formula and manufacturing process are then built around those specific materials. That is why the performance in our spec sheet holds up in the field. We do not use generic formulas and assume the result will be good.
+Every MoShiEx product starts with hand picked raw materials. The formula and manufacturing process are then built around those specific materials. That is why the performance in our spec sheet holds up in the field. We do not use generic formulas and assume the result will be good.
 
 *[Image: Material selection or manufacturing process detail]*
 
@@ -38,7 +38,7 @@ Morthink is a manufacturer, not a middleman. Our pricing is built to protect dea
 
 **Paint Protection Film**
 
-MoShiEx PPF stretches past 280 percent without tearing, so it wraps real curves without over-stretching or fighting the installer. The adhesive grips firmly during installation and releases cleanly when the film needs to come off. White cars stay white. Dark cars stay dark. The film resists hydrolysis and yellowing, so the protection holds long after the point of sale.
+MoShiEx PPF stretches past 280 percent without tearing, so it wraps real curves without over stretching or fighting the installer. The adhesive grips firmly during installation and releases cleanly when the film needs to come off. White cars stay white. Dark cars stay dark. The film resists hydrolysis and yellowing, so the protection holds long after the point of sale.
 
 *[Image: PPF installation or finished result on vehicle]*
 
@@ -50,7 +50,7 @@ Our window film blocks heat without blocking the view. One line uses magnetron s
 
 **CHARMIST Color Film**
 
-CHARMIST is built on a PPF grade TPU base, so your customer gets a color change and paint protection in one product. The color layer is cast grade. It stays bonded to the base film under stretching and will not fade or peel away. The adhesive is paint-safe. Over 400 colors are available, with custom color development on request.
+CHARMIST is built on a PPF grade TPU base, so your customer gets a color change and paint protection in one product. The color layer is cast grade. It stays bonded to the base film under stretching and will not fade or peel away. The adhesive is paint safe. Over 400 colors are available, with custom color development on request.
 
 *[Image: CHARMIST color film on vehicle, showing color and finish quality]*
 

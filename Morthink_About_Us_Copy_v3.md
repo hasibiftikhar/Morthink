@@ -24,9 +24,9 @@ We design and manufacture paint protection film, TPU wrap film, window film, and
 
 **Format:** Three distinct visual blocks (not inline text)
 
-- **70+ years of coating technology** -- Deep heritage built into every layer of every product
-- **10+ international renowned brands served by us** -- Global reach and trusted partnerships
-- **International team for TPU casting, adhesive, and coating** -- Expertise across all three core disciplines
+- **70+ years of coating technology:** Deep heritage built into every layer of every product
+- **10+ international renowned brands served by us:** Global reach and trusted partnerships
+- **International team for TPU casting, adhesive, and coating:** Expertise across all three core disciplines
 
 ### Section 4: The AEGOR Technology Platform
 
