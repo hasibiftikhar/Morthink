@@ -64,15 +64,33 @@ We work with three international laboratories to test and improve our film techn
 
 ### Section 6: Built for Automotive Grade Consistency
 
-**Header:** Dust-Free Workshops. Full Process Control. One Standard.
+**Header:** Three Bases. Four Processes. One Standard.
 
-Our film is made inside dust-free workshops built specifically for coating, curing, and roll cutting. We control the process from raw material arrival through final inspection. Every order moves through three quality checks: incoming material testing, in process inspection during manufacturing, and final testing before it ships. Every batch gets a Certificate of Analysis and an inspection report, so what you receive matches what we tested.
+**Three Major Production Bases**
 
-**Production Bases:** We operate three major production bases designed to keep output consistent and delivery fast, no matter the order volume or the season.
+We operate three major production bases in Guangdong, China. Each base is built for full process coverage, so output stays consistent and delivery stays fast, no matter the order volume or the season. No single-factory bottleneck holds your order back.
 
-**Quality Consistency:** Modern equipment, high-standard dust-free workshops, and process discipline mean the roll you order today performs the same way as the roll you order next year.
+*[Image: Production facility exterior or aerial view showing scale]*
 
-*[Images: Workshop interior photos from both production facilities]*
+**Modern Equipment**
+
+Our equipment is built for precision film production at scale. From raw material handling through roll cutting and final inspection, each step uses equipment matched to the demands of that step. Process discipline is built in, not worked around.
+
+*[Image: Manufacturing equipment in operation on the production floor]*
+
+**High-Standard Dust-Free Workshops**
+
+Coating, curing, and roll cutting all happen inside high-standard dust-free workshops built specifically for film production. Dust-free conditions are not a feature. At this level of optical clarity and adhesive precision, they are the baseline.
+
+*[Image: Dust-free workshop interior showing coating or curing line]*
+
+**Full Process Coverage, In House**
+
+We cover the full process ourselves, from TPU casting and color mixing through coating and roll cutting. No steps are outsourced. We control quality at every stage and can trace any issue back to the exact step it came from.
+
+*[Image: Process flow visual or multi-stage production scene]*
+
+Every order passes through three quality checks: incoming material testing, in-process inspection during manufacturing, and final testing before it ships. Every batch ships with a Certificate of Analysis and an inspection report.
 
 ### Section 7: IATF 16949 Certified
 
@@ -102,6 +120,7 @@ Get certified film products, real testing data, and a manufacturing partner that
 - **Production base count references "three major production bases"** per the client's most recent revision doc, with the caveat that this remains an unconfirmed detail pending client answer (see Section 4 of handoff brief). If the count changes to two, update this section only (no other page updates needed, since this is the only place the number now appears).
 - **ISO 9001, 14001, and 45001 now appear alongside IATF 16949**, resolving the audit's finding that three of four certifications were unused.
 - **No duplicate content with the homepage.** The homepage states the same facts (factories, output, certification) in one line for scanning. This page unpacks each one into its own section, since About Us visitors are further into research mode and want depth.
+- **Section 6 now presents four production capability points as separate visual blocks**, per client feedback: three major production bases, modern equipment, high-standard dust-free workshops, and full in-house process coverage from TPU casting through coating. Each block has its own image note. This replaces the previous single paragraph that buried these points.
 - **All specifications in the AEGOR and Quality sections use real numbers** (70 years, 120 employees, 500,000 rolls, three quality checks per batch) rather than adjectives, supporting both EEAT and searchability.
 
 ## Meta Content
